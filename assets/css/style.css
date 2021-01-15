@@ -1,0 +1,52 @@
+body{
+
+}
+.hero-text{
+    color: sandybrown;
+    font-family:oswald,sans-serif;
+    font-weight: 500px;
+    line-height: 50px;
+    font-size: 50px;
+}
+.hero-text-2{
+    color: rgb(43, 43, 71);
+    font-family:oswald,sans-serif;
+    font-size: 50px;
+}
+h1{
+    color: rgb(43, 43, 71);
+}
+h5{
+    color: rgb(43, 43, 71);
+    font-family: oswald,sans-serif;
+}
+.nav-text{
+    font-family:montserrat,sans-serif;
+    
+}
+.overflow{
+    overflow: hidden;
+}
+.navbar-style{
+    font-weight: 500;
+    padding: 10px 20px !important;
+    font-size: sans-serif;
+   
+    
+}
+.nav-bg-color{
+    background-color: white;
+    overflow: hidden;
+.button{
+    background-image: linear-gradient(rgb(1, 66, 141) green) !important;
+}
+.price-text{
+    color: salmon !important;
+}
+footer{
+    background-color: coral;
+}
+.footer-btn{
+    text-decoration: none;
+
+}
